@@ -1,0 +1,98 @@
+body {
+  margin: 0;
+  background: linear-gradient(to Left, black, gray);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* element tags */
+p {
+  background-color: gray;
+  color: white;
+  padding: 5px;
+}
+
+
+a {
+  color: white;
+  text-decoration: underline;
+  
+}
+
+a:hover {
+  color: blue;
+  
+}
+
+/* IDs */
+#white {
+  color: white;
+}
+
+/* classes */
+.my-img {
+  height: 350px;
+  width: 350px;
+  margin-top: 20px;
+  margin-left: 35%;
+  border: 1px solid black;
+}
+.me {
+background-color: blue;
+color: white;
+margin-top: 20px;
+margin-bottom: 20px;
+border: 1px solid black;
+}
+.lblue {
+  color: lightblue;
+}
+.center {
+  text-align: center;
+}
+.imgOne {
+  height: 250px;
+  width: 250px;
+  margin: 20px
+  ;
+}
+.contact {
+  color: black;
+}
+
+.white {
+  color: white;
+}
+
+.black {
+  color: black;
+}
+
+.gray {
+background-color: lightgray;
+margin-left: 100%;
+}
+
+.page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+.content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;            /* Footer height */
+}
