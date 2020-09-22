@@ -16,7 +16,7 @@ code {
 
 /* element tags */
 p {
-  background-color: gray;
+  /* background-color: gray; */
   color: white;
   padding: 5px;
 }
@@ -49,11 +49,11 @@ a:hover {
 }
 
 .me {
-background-color: rgb(192,192,192);
+/* background-color: rgb(192,192,192); */
 color: black;
 margin-top: 20px;
 margin-bottom: 20px;
-border: 1px solid black;
+/* border: 1px solid black; */
 }
 
 .center {

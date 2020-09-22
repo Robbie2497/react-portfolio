@@ -57,7 +57,7 @@ function Homepage() {
                 including C++, C#,
                 Python, REACT, and much more in the coming weeks.
                 I have created many front-end projects for both homework and in my free time that you can view
-                <a href="projects.html">here</a>
+                <a href="projects.html"> here</a>
                 , but as the course progresses, I will be learning more on the back-end as well eventually sharpening my
                 skills to
                 learn the whole full-stack.
