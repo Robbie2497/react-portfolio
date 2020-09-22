@@ -4,7 +4,7 @@ function Homepage() {
     return(
         <div className="container">
         <div>
-            <h1 className="center white">My Portfolio</h1>
+            <h1 className="center white">Robert McGrew Portfolio</h1>
         </div>
         <img className="my-img"
             src="me.png"

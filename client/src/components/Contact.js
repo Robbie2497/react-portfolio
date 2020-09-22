@@ -5,7 +5,7 @@ function Contact () {
         <div className="container containerbackground">
     <div className="row">
       <div className="col-sm-12">
-        <h2 className="center">Contact Me!</h2>
+        <h2 className="center contact-text">Contact Me!</h2>
       </div>
       <div className="row">
         <div className="col-sm-12 card gray">

@@ -6,6 +6,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  width: 100%;
 }
 
 code {
@@ -28,7 +29,8 @@ a {
 }
 
 a:hover {
-  color: blue;
+  color: rgb(60, 226, 204);
+
   
 }
 
@@ -45,25 +47,25 @@ a:hover {
   margin-left: 35%;
   border: 1px solid black;
 }
+
 .me {
-background-color: blue;
+background-color: rgb(192,192,192);
 color: white;
 margin-top: 20px;
 margin-bottom: 20px;
 border: 1px solid black;
 }
-.lblue {
-  color: lightblue;
-}
+
 .center {
   text-align: center;
 }
+
 .imgOne {
   height: 250px;
   width: 250px;
-  margin: 20px
-  ;
+  margin: 20px;
 }
+
 .contact {
   color: black;
 }
@@ -84,6 +86,10 @@ margin-left: 100%;
 .page-container {
   position: relative;
   min-height: 100vh;
+}
+
+.contact-text {
+  color: rgb(192,192,192);
 }
 
 .content-wrap {
