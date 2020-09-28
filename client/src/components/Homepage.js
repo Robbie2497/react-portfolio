@@ -7,7 +7,7 @@ function Homepage() {
             <h1 className="center white">Robert McGrew Portfolio</h1>
         </div>
         <img className="my-img"
-            src="me.png"
+            src="Profile_Picture.jpg"
             alt="Robert McGrew" />
         <section className="me">Who am I?
             <p>My name is Robert McGrew, I am 23 years old. I am from Wrightwood, California. I am a student studing
