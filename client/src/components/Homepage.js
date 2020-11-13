@@ -11,13 +11,9 @@ function Homepage() {
                 alt="Robert McGrew" />
 
             <section className="me">
-                <p>Lifelong seeker of knowledge who currently is seeking a full-time web development position. Experienced in HTML5, CSS3, Javascript, JQuery, Bootstrap, Node Js, MySQL, MongoDB, Express, and Handlebars JS</p>
-            </section>
-
-            <section className="me">
             <p> Full stack Web Developer passionate about approaching challenges from different angles and collaborating with
                 others to create meaningful web applications. Recently earned a certificate in Full Stack Development from the
-                University of Utah and developed skills in JavaScript, CSS, React.js, and responsive web design. Known as an
+                University of Utah and developed skills in HTML5, CSS3, Javascript, JQuery, Bootstrap, Node Js, MySQL, MongoDB, Express, and Handlebars JS. Known as an
                 innovative problem-solver passionate about developing apps. Aim for each project is to best engage the audience for an impactful user-experience. Excited to leverage my
                  skills in the future as part of a fast-paced, quality-driven team in order to build better experiences on the web.</p>
             </section>
