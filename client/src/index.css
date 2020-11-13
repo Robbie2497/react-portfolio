@@ -9,6 +9,60 @@ body {
   width: 100%;
 }
 
+@media screen and (max-width: 730px) {
+  .my-img {
+    position: relative;
+    right: 125px;
+    height: 35px;
+    width: 35px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 35%;
+    border: 1px solid black;
+  }
+
+  .footerDiv {
+position: relative;
+bottom: -100px;
+  }
+
+  .contactFooter {
+   position: absolute;
+   top: 150px;
+   right: 0px;
+
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .my-img {
+    position: relative;
+    right: 125px;
+    height: 35px;
+    width: 35px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 35%;
+    border: 1px solid black;
+  }
+
+  .footerDiv {
+position: relative;
+bottom: -100px;
+  }
+
+  .contactFooter {
+   position: absolute;
+   top: 150px;
+   right: 0px;
+  }
+
+  .imgOne {
+    position: relative;
+    right: 50px;
+  }
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
