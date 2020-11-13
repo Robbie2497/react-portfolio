@@ -8,7 +8,7 @@ function Contact () {
         <h2 className="center contact-text">Contact Me!</h2>
       </div>
       <div className="row">
-        <div className="col-sm-12 card gray">
+        <div className="col-sm-12 card gray contactFooter">
           <h3>Email: <a href="mailto:robbie2497@gmail.com"><u className="black"> robbie2497@gmail.com</u></a></h3>
           <h3>Phone: <u>(760) 553-0573</u></h3>
           <h3>Facebook:<a rel="noopener noreferrer" href="https://www.facebook.com/robert.mcgrew24" target="_blank"><u className="black"> Robert McGrew</u></a></h3>
